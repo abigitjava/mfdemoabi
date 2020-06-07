@@ -1,0 +1,38 @@
+HELP.MD
+.gradle
+build/
+/target/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+### Intellij IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+
+### VS Code ###
+.vscode/
+
+### DS Store ###
+.DS_Store
+
+bin
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### Net Beans ###
+/nbproject/private
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
